@@ -2,15 +2,11 @@
 
 A five page Power BI report that shows a European parcel and freight operation how much it ships, where to, what each carrier costs against what is charged, and how reliably each carrier delivers.
 
-![Overview page](screenshots/1_overview.png)
-
-## Design philosophy
+The operation ships with several carriers, to many countries, on several service levels. Management needs one view of where the volume goes, whether freight cost stays below freight charged, and whether shipments arrive within the promised days. Built for operations and logistics management and for carrier rate reviews.
 
 A dashboard does not have to be the fanciest report in the company to be the most useful one. I keep the design simple and clean: one navigation bar, the same four filters on every page, KPI cards on top and four visuals below. What matters is what the page holds: the numbers and findings management cares about, laid out so a manager can spot a problem, see where it sits and decide what to do next.
 
-## Problem and audience
-
-The operation ships with several carriers, to many countries, on several service levels. Management needs one view of where the volume goes, whether freight cost stays below freight charged, and whether shipments arrive within the promised days. Built for operations and logistics management and for carrier rate reviews.
+![Overview page](screenshots/1_overview.png)
 
 ## Key findings
 
