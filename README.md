@@ -79,10 +79,8 @@ The country split shows where that profit comes from. The Netherlands (€514K) 
 - **DAX measures.** Totals, per box and per shipment averages, freight profit and difference, on time percentage and comparison with the previous year.
 - **Report design.** Dark theme, one accent colour, a fixed colour per carrier and the same layout on every page.
 
-## Data note
-
-The figures in this report are illustrative. The underlying shipment data was scaled up 15 times, so volumes and amounts do not match any real operation, while ratios, averages and patterns are unchanged. The employer is not named and no raw data or .pbix file is shared. The semantic model was built by the company's Power BI developer, and I designed the report pages and wrote the DAX measures.
-
 ## About the author
 
-Adrian Vanderlinder. I design Power BI reports around the questions management needs answered. Find me on [LinkedIn](https://linkedin.com/in/adrian-van-der-linder-59b1299b).
+I am Adrian Vanderlinder, a business intelligence and operations professional with over 5 years of experience across logistics, operations, administration and reporting. I design Power BI reports and write the DAX behind them, with a focus on freight margin, lead times, on time delivery and data quality. I work with Power BI, Power Query, SQL, Excel and Python (pandas), and I have coordinated daily transport with carriers such as FedEx, DPD and DHL, so I know how the data looks from the operations side. Based in Rotterdam and fluent in English and Spanish.
+
+Find me on [LinkedIn](https://linkedin.com/in/adrian-van-der-linder-59b1299b).
